@@ -1,0 +1,11 @@
+This program uses openGL (graphics library) to provide some basic windowing capabilities. 
+This means that you must install the OpenGL development libraries to be able to run this code.
+
+     sudo apt-get update
+     sudo apt-get upgrade
+     sudo apt-get install binutils-gold
+     sudo apt-get install libgl1-mesa-dev
+     sudo apt-get install freeglut3 freeglut3-dev
+
+Enter these sudo commands into your command line.
+It will take a few minutes to install each. You must be connected to the Internet during the installation.
